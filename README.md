@@ -1,4 +1,4 @@
-# Backupwise
+# Backupwise - A File Backup Application CLI in RUST
 
 This is the Rust version of Backupwise, a simple application for monitoring a directory and creating backups of files when they are created or modified. This utility utilizes Zenity for directory selection and system notifications for backup completion.
 

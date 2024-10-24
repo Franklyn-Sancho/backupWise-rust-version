@@ -1,18 +1,21 @@
-mod monitor;
 mod backup;
-mod select;
+mod monitor;
 mod notification;
+mod schedule;
+mod select;
 
 fn main() {
-    // Use the directory selection function from the select module
     let source_dir = select::select_directory("Select the directory to monitor");
     let backup_dir = select::select_directory("Select the backup directory");
 
-    // Display the selected directories
     println!("Monitoring directory: {}", source_dir);
-    println!("Backup will be saved in: {}", backup_dir);
+    println!("Backup will be saved to: {}", backup_dir);
 
-    // Start monitoring and backup
+    // Agendamento de 1 em 1 minuto
+    let cron_expression = "1 * * * * *";
+
+    schedule::schedule_backup(&source_dir, &backup_dir, cron_expression);
+
+    // Continue o monitoramento normal...
     monitor::watch_directory(&source_dir, &backup_dir);
 }
-
