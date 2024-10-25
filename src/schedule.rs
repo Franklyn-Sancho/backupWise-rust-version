@@ -1,5 +1,6 @@
 use cron::Schedule;
-use std::str::FromStr;
+use dialoguer::{theme::ColorfulTheme, Select};
+use std::{process, str::FromStr};
 use std::thread;
 use std::time::Duration;
 use chrono::Utc;
@@ -30,6 +31,30 @@ pub fn schedule_backup(src: &str, dest: &str, cron_expression: &str) {
             });
         },
         Err(e) => eprintln!("Error parsing cron expression: {:?}", e),
+    }
+}
+
+pub fn select_backup_interval() -> String {
+    // Opções de intervalo para backup
+    let intervals = vec!["1 minuto", "5 minutos", "10 minutos", "30 minutos", "1 hora"];
+    let selection = Select::with_theme(&ColorfulTheme::default())
+        .with_prompt("Escolha o intervalo para o backup automático")
+        .items(&intervals)
+        .default(0)
+        .interact()
+        .unwrap_or_else(|_| {
+            println!("Nenhuma opção selecionada. Saindo...");
+            process::exit(1);
+        });
+
+    // Expressão cron com base na seleção
+    match selection {
+        0 => "1 * * * * *".to_string(),   // A cada 1 minuto
+        1 => "5 * * * * *".to_string(),   // A cada 5 minutos
+        2 => "10 * * * * *".to_string(),  // A cada 10 minutos
+        3 => "30 * * * * *".to_string(),  // A cada 30 minutos
+        4 => "* 1 * * * *".to_string(),     // A cada 1 hora
+        _ => "*/1 * * * *".to_string(),   // Valor padrão, caso algo falhe
     }
 }
 
