@@ -3,25 +3,22 @@ mod monitor;
 mod notification;
 mod schedule;
 mod select;
+mod cron;
 
-use dialoguer::{theme::ColorfulTheme, Select};
-use std::process;
+use backupwise_rs::persistence;
+
 
 fn main() {
-    // Seleção dos diretórios de monitoramento e backup
-    let source_dir = select::select_directory("Select the directory to monitor");
-    let backup_dir = select::select_directory("Select the backup directory");
-    println!("Monitoring directory: {}", source_dir);
-    println!("Backup will be saved to: {}", backup_dir);
+    let persistence = persistence::Persistence::load();
+    println!("Monitoring directory: {}", persistence.source_dir);
+    println!("Backup will be saved to: {}", persistence.backup_dir);
 
-    // Seleção do intervalo de backup
-    let cron_expression = schedule::select_backup_interval();
-    println!("Backup programado!");
+    let cron_expression = persistence.cron_expression();
+    println!("Backup programado para cada {} minuto(s)", persistence.backup_interval);
 
-    // Agendamento do backup com base no intervalo selecionado
-    schedule::schedule_backup(&source_dir, &backup_dir, &cron_expression);
-
-    // Início do monitoramento do diretório
-    monitor::watch_directory(&source_dir, &backup_dir);
+    schedule::schedule_backup(&persistence.source_dir, &persistence.backup_dir, &cron_expression);
+    monitor::watch_directory(&persistence.source_dir, &persistence.backup_dir);
 }
+
+
 
