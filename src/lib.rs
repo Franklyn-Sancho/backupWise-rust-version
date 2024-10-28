@@ -5,3 +5,4 @@ pub mod notification;
 pub mod schedule;
 pub mod persistence;
 pub mod cron;
+pub mod logger;

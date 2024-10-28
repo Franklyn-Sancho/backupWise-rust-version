@@ -14,7 +14,6 @@ pub fn backup_file(src: &str, dest: &str) {
     }
 }
 
-// Função para fazer backup de todos os arquivos do diretório
 pub fn backup_directory(src: &str, dest: &str) {
     let source_dir = Path::new(src);
     let destination_dir = Path::new(dest);
@@ -25,7 +24,6 @@ pub fn backup_directory(src: &str, dest: &str) {
             let source_file = entry.path();
             let destination_file = destination_dir.join(entry.file_name());
 
-            // Copia os arquivos
             if source_file.is_file() {
                 fs::copy(&source_file, &destination_file).expect("Error copying file");
                 println!("Backup completed for: {:?}", source_file);

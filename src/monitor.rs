@@ -3,6 +3,7 @@ use std::sync::mpsc::channel;
 use std::path::Path;
 use crate::backup::backup_file;
 use crate::notification::send_backup_notification;
+use crate::logger::{log_event, log_file_change};
 
 pub fn watch_directory(src: &str, dest: &str) {
     // Create a channel to receive event notifications
@@ -39,11 +40,16 @@ fn handle_event(event: Event, dest: &str) {
             EventKind::Create(_) => {
                 println!("File created: {:?}", path);
                 backup_file(path_str, dest);
+                log_event("Criação de Arquivo", &format!("Arquivo criado: {}", path_str));
+                log_file_change(path_str, "create", "Arquivo criado e backup iniciado.");
                 send_backup_notification(path_str);
             },
             EventKind::Modify(_) => {
                 println!("File modified: {:?}", path);
                 backup_file(path_str, dest);
+                log_event("Modificação de Arquivo", &format!("Arquivo modificado: {}", path_str));
+                log_file_change(path_str, "modify", "Arquivo modificado e backup atualizado.");
+
                 send_backup_notification(path_str);
             },
             _ => (),

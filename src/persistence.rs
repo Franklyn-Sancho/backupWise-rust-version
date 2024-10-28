@@ -5,6 +5,7 @@ use std::path::Path;
 
 use crate::cron;
 use crate::{schedule, select};
+use crate::logger::log_event;
 
 #[derive(Serialize, Deserialize)]
 pub struct Persistence {
@@ -18,9 +19,11 @@ impl Persistence {
         let config_path = "config.json";
         if Path::new(config_path).exists() {
             let config_content = fs::read_to_string(config_path).expect("Erro ao ler o arquivo de configuração");
+            log_event("Configuração", "Configuração carregada com sucesso.");
             serde_json::from_str(&config_content).expect("Erro ao parsear a configuração")
         } else {
             let cron_expression = schedule::select_backup_interval();
+            log_event("Configuração", "Nenhuma configuração encontrada, criando nova.");
             Self::create_new(cron_expression)
         }
     }
@@ -35,6 +38,7 @@ impl Persistence {
             backup_interval,
         };
         config.save();
+        log_event("Configuração", "Nova configuração criada e salva.");
         config
     }
     

@@ -5,6 +5,7 @@ use dialoguer::{theme::ColorfulTheme, Select};
 use std::sync::{Arc, Mutex};
 use std::thread;
 use std::{process, str::FromStr};
+use crate::logger::log_event;
 
 pub fn schedule_backup(src: &str, dest: &str, cron_expression: &str) {
     match Schedule::from_str(cron_expression) {
@@ -22,7 +23,9 @@ pub fn schedule_backup(src: &str, dest: &str, cron_expression: &str) {
                         let src_path = src.lock().unwrap().clone();
                         let dest_path = dest.lock().unwrap().clone();
                         println!("Scheduled backup running at: {}", Utc::now());
+                        log_event("Backup Agendado", &format!("Backup iniciado em: {}", Utc::now()));
                         backup_directory(&src_path, &dest_path);
+                        log_event("Backup Concluído", "Backup agendado concluído com sucesso.");
                     }
                 }
             });
@@ -30,6 +33,7 @@ pub fn schedule_backup(src: &str, dest: &str, cron_expression: &str) {
         Err(e) => eprintln!("Error parsing cron expression: {:?}", e),
     }
 }
+
 
 pub fn select_backup_interval() -> String {
     println!("Selecionando o intervalo de backup...");
