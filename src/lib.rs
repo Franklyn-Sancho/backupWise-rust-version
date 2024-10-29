@@ -6,3 +6,6 @@ pub mod schedule;
 pub mod persistence;
 pub mod cron;
 pub mod logger;
+pub mod driver_integration;
+pub mod config;
+pub mod auth;

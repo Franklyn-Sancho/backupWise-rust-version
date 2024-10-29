@@ -28,3 +28,262 @@
 {"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-28 18:27:01.028516075 UTC"}
 {"details":"Backup iniciado em: 2024-10-28 18:28:01.000155288 UTC","status":"Backup Agendado","timestamp":"2024-10-28 18:28:01.000187672 UTC"}
 {"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-28 18:28:01.006600804 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 12:51:02.510916508 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 12:51:02.539271893 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 12:52:01.000118220 UTC","status":"Backup Agendado","timestamp":"2024-10-29 12:52:01.000150061 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 12:52:01.080033555 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 16:35:48.557484109 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 16:35:49.362293407 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 16:36:01.000162621 UTC","status":"Backup Agendado","timestamp":"2024-10-29 16:36:01.000207360 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 16:36:01.045592957 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 16:47:12.748146073 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 16:47:13.778117887 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 16:48:01.000423828 UTC","status":"Backup Agendado","timestamp":"2024-10-29 16:48:01.000495981 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 16:48:01.031055482 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 17:04:30.730386710 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 17:04:32.788945508 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:05:01.000180942 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:05:01.000225150 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:05:01.068706929 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:06:01.000160358 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:06:01.000191942 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:06:01.007720717 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:07:01.000159519 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:07:01.000190625 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:07:01.006786756 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:08:01.000406347 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:08:01.000481763 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:08:01.017959133 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:09:01.000149514 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:09:01.000199576 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:09:01.031808955 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 17:48:28.497948310 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 17:48:29.570036477 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:49:01.000161425 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:49:01.000206427 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:49:01.027845499 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:50:01.000161525 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:50:01.000193385 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:50:01.011574892 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:51:01.000159528 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:51:01.000190143 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:51:01.007547420 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:52:01.000157750 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:52:01.000189194 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:52:01.025626670 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:53:01.000161928 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:53:01.000193275 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:53:01.010581277 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:54:01.000124971 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:54:01.000155300 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:54:01.010065334 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:55:01.000163248 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:55:01.000194843 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:55:01.007837853 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:56:01.000157006 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:56:01.000187625 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:56:01.007119520 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:57:01.000162125 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:57:01.000193184 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:57:01.006758685 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:58:01.000145808 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:58:01.000176976 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:58:01.008203207 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 17:59:01.000095956 UTC","status":"Backup Agendado","timestamp":"2024-10-29 17:59:01.000119491 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 17:59:01.007579637 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:00:01.000168705 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:00:01.000210127 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:00:01.020990433 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:01:01.000155303 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:01:01.000186499 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:01:01.007378929 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:02:01.000156436 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:02:01.000188043 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:02:01.006613912 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:03:01.000158506 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:03:01.000189531 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:03:01.006887411 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:04:01.000154701 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:04:01.000185724 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:04:01.006590796 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:05:01.000114331 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:05:01.000146858 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:05:01.006478781 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:06:01.000128705 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:06:01.000160377 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:06:01.013401154 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:07:01.000158841 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:07:01.000190162 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:07:01.006824908 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 18:24:50.377273747 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 18:24:53.373016371 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:25:01.000168956 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:25:01.000211295 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:25:01.025712594 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:26:01.000167455 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:26:01.000202322 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:26:01.007067240 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:27:01.000126454 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:27:01.000158016 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:27:01.007529675 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:28:01.000131642 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:28:01.000163389 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:28:01.007331660 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 18:29:01.000126636 UTC","status":"Backup Agendado","timestamp":"2024-10-29 18:29:01.000162994 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 18:29:01.005261058 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 20:18:34.599684386 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 20:18:35.679220640 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:19:01.000111498 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:19:01.000147230 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:19:01.031235431 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:20:01.000129015 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:20:01.000160409 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:20:01.024838185 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 20:24:33.884539966 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 20:24:34.001617262 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:25:01.000105817 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:25:01.000139288 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:25:01.028728232 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:26:01.000121323 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:26:01.000162384 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:26:01.029289084 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:27:01.001841587 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:27:01.001878869 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:27:01.015722667 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:28:01.000152011 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:28:01.000183149 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:28:01.006951995 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:29:01.000156404 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:29:01.000188402 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:29:01.007080247 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 20:32:33.328144131 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 20:33:22.719956355 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:34:01.000131586 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:34:01.000176768 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:34:01.020843477 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:35:01.000161513 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:35:01.000193113 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:35:01.012899756 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 20:39:00.544786944 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 20:39:00.989899537 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:39:01.000134890 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:39:01.000213918 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:39:01.016365808 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:40:01.000157622 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:40:01.000189560 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:40:01.006500321 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 20:41:01.000129091 UTC","status":"Backup Agendado","timestamp":"2024-10-29 20:41:01.000160763 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 20:41:01.011330173 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 20:55:57.721431255 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:02:07.691693941 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:07:49.881222097 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 21:08:28.715552187 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:09:01.000156519 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:09:01.000202712 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:09:01.040830694 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:10:01.000155067 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:10:01.000187318 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:10:01.009088988 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:11:01.000132229 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:11:01.000164633 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:11:01.007566472 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:12:01.000130986 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:12:01.000163097 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:12:01.007590412 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:13:01.000126940 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:13:01.000153746 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:13:01.007095362 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:14:01.000100737 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:14:01.000124436 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:14:01.011680533 UTC"}
+{"details":"Arquivo criado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Criação de Arquivo","timestamp":"2024-10-29 21:14:06.650222228 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:14:06.676968498 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/mudanças para driver","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:14:06.782973792 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:14:06.801293669 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/mudanças para driver","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:14:06.898859585 UTC"}
+{"details":"Arquivo criado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Criação de Arquivo","timestamp":"2024-10-29 21:14:06.904516738 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:14:06.915495952 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/maus uma muança","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:14:07.012770276 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:14:07.025554324 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/maus uma muança","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:14:07.136385621 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:15:01.000367508 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:15:01.000420325 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:15:01.014078368 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:19:34.085607372 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 21:19:34.378786720 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:20:01.000281143 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:20:01.000322805 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:20:01.018639836 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:21:01.000289012 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:21:01.000323147 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:21:01.019929913 UTC"}
+{"details":"Arquivo criado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Criação de Arquivo","timestamp":"2024-10-29 21:21:12.234986359 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:21:14.947372699 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/um pouco de tudo","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:21:15.255064724 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:21:15.263821754 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/um pouco de tudo","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:21:15.553199362 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:26:39.868298508 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 21:26:39.988443012 UTC"}
+{"details":"Arquivo criado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Criação de Arquivo","timestamp":"2024-10-29 21:26:49.900386528 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:26:51.588671912 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/as mudnças","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:26:52.926454302 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:26:52.933614396 UTC"}
+{"details":"Arquivo modificado: /home/franklyn/Documentos/Códigos/as mudnças","status":"Modificação de Arquivo","timestamp":"2024-10-29 21:26:54.409062392 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:27:01.000149772 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:27:01.000196308 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:27:01.012252204 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:32:57.098118747 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 21:32:57.664486369 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:33:01.000132179 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:33:01.000175932 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:33:01.018681425 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:33:30.719123279 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 21:33:30.843794033 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:33:37.180060331 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/mudanças ","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:33:39.031853372 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:34:01.000159465 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:34:01.000205359 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:34:01.012188873 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:35:01.000216822 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:35:01.000244873 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:35:01.029888737 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:38:52.005672800 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 21:38:52.258246157 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:38:58.576775062 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:39:01.000163884 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:39:01.000209867 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:39:01.007146574 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título 2","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:39:43.959182112 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/mudanças diretas","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:39:48.472223978 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:40:01.000161906 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:40:01.000195535 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:40:01.011883677 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:41:01.000161308 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:41:01.000192056 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:41:01.006962578 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título 2","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:41:26.949740883 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/1234","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:41:28.244839344 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:42:01.000159920 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:42:01.000190337 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:42:01.006152676 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:42:26.125899542 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 21:42:26.250572102 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:43:01.000152909 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:43:01.000199194 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:43:01.008010370 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:43:13.109255538 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/mudanças.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:43:18.058747022 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/.goutputstream-3RAZW2","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:43:36.996882671 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/mudanças.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:43:38.638176244 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:44:01.000157107 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:44:01.000187814 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:44:01.006553411 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/.goutputstream-8DKUW2","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:44:06.232691364 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/mudanças.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:44:07.533411121 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:47:14.060807355 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 21:47:14.368279025 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:47:22.064984629 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/teste","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:47:24.493762373 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:48:01.000160125 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:48:01.000203998 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:48:01.008013524 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/teste.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:48:03.753504780 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/.goutputstream-U5AGW2","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:48:31.315115340 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/teste.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:48:33.849320053 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/.goutputstream-AMUYW2","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:48:44.365208697 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/teste.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:48:45.727490767 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:49:01.000162729 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:49:01.000196987 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:49:01.007264129 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:49:14.694585058 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/testando a funcionalidade","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:49:19.276261159 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/testando a funcionalidade.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:49:50.211516264 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:50:01.000125026 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:50:01.000157279 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:50:01.007896666 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/.goutputstream-TYQPW2","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:50:15.964179971 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/testando a funcionalidade.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:50:17.331090675 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:51:01.000109378 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:51:01.000135542 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:51:01.005698628 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 21:51:06.682442713 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 21:51:06.801304910 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:52:01.000151660 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:52:01.000201519 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:52:01.011410461 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:53:01.000160623 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:53:01.000191741 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:53:01.006691005 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:53:38.880820952 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/husky.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:53:42.445700725 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:54:01.000133404 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:54:01.000160050 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:54:01.030746790 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/.goutputstream-C0LYW2","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:54:02.217329674 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/husky.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:54:03.592218922 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:55:01.000117750 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:55:01.000144223 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:55:01.008481099 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 21:55:31.855776657 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:56:01.000162885 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:56:01.000194740 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:56:01.008053473 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:57:01.000160197 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:57:01.000191945 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:57:01.006372440 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:58:01.000143893 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:58:01.000176106 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:58:01.006975134 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 21:59:01.000124672 UTC","status":"Backup Agendado","timestamp":"2024-10-29 21:59:01.000157003 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 21:59:01.007343742 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 22:05:01.965138666 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 22:05:04.004039544 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 22:06:01.000156121 UTC","status":"Backup Agendado","timestamp":"2024-10-29 22:06:01.000202600 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 22:06:01.061850533 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/Documento sem título 2","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 22:06:26.038113171 UTC"}
+{"details":"Arquivo: /home/franklyn/Documentos/Códigos/teste.txt","status":"Arquivo Modificado ou Criado","timestamp":"2024-10-29 22:06:29.636345960 UTC"}
+{"details":"Programa de monitoramento de backup iniciado.","status":"Inicialização","timestamp":"2024-10-29 22:12:14.596400513 UTC"}
+{"details":"Configuração carregada com sucesso.","status":"Configuração","timestamp":"2024-10-29 22:12:15.600844616 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 22:13:01.000167245 UTC","status":"Backup Agendado","timestamp":"2024-10-29 22:13:01.000212035 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 22:13:01.008075384 UTC"}
+{"details":"File: /home/franklyn/Documentos/Códigos/Documento sem título","status":"File Modified or Created","timestamp":"2024-10-29 22:13:48.951132032 UTC"}
+{"details":"File: /home/franklyn/Documentos/Códigos/mudanças.txt","status":"File Modified or Created","timestamp":"2024-10-29 22:13:54.740901125 UTC"}
+{"details":"Backup iniciado em: 2024-10-29 22:14:01.000162965 UTC","status":"Backup Agendado","timestamp":"2024-10-29 22:14:01.000194652 UTC"}
+{"details":"Backup agendado concluído com sucesso.","status":"Backup Concluído","timestamp":"2024-10-29 22:14:01.007482352 UTC"}
+{"details":"File: /home/franklyn/Documentos/Códigos/.goutputstream-8QEWW2","status":"File Modified or Created","timestamp":"2024-10-29 22:14:21.722606517 UTC"}
+{"details":"File: /home/franklyn/Documentos/Códigos/mudanças.txt","status":"File Modified or Created","timestamp":"2024-10-29 22:14:23.085481144 UTC"}
+{"details":"File: /home/franklyn/Documentos/Códigos/husky.txt","status":"File Modified or Created","timestamp":"2024-10-29 22:14:39.006185423 UTC"}
+{"details":"File: /home/franklyn/Documentos/Códigos/husky.txt","status":"File Modified or Created","timestamp":"2024-10-29 22:14:40.455973228 UTC"}
+{"details":"File: /home/franklyn/Documentos/Códigos/testando a funcionalidade.txt","status":"File Modified or Created","timestamp":"2024-10-29 22:14:41.895702184 UTC"}

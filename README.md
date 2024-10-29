@@ -1,6 +1,6 @@
 # Backupwise - A File Backup Application CLI in RUST
 
-This is the Rust version of Backupwise, a simple application for monitoring a directory and creating backups of files when they are created or modified. This utility utilizes Zenity for directory selection and system notifications for backup completion.
+This is the Rust version of Backupwise, a simple application for monitoring a directory and creating backups of files when they are created or modified. This utility utilizes Zenity for directory selection and system notifications for backup completion. It also integrates with Google Drive, allowing backups to be securely stored in the cloud.
 
 ## Features
 
@@ -8,11 +8,17 @@ This is the Rust version of Backupwise, a simple application for monitoring a di
 - Automatically create backups of files in a designated backup directory.
 - User-friendly interface for selecting directories using Zenity.
 - System notifications upon successful backup.
+- **Google Drive Integration**: 
+  - Upload backups to Google Drive for secure cloud storage.
+  - Supports automatic backup of files directly to Google Drive, leveraging its robust file storage capabilities.
+
 
 ## Requirements
 
 - Rust (1.XX or higher)
 - Zenity installed on your system
+- Google Account (for utilizing Google Drive)
+
 
 ## Installation
 

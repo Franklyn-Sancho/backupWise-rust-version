@@ -1,1 +1,6 @@
 /target
+client_secret.json
+./client_secret.json
+tokencache.json
+./tokencache.json
+config.json
